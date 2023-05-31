@@ -28,10 +28,10 @@ To run the application, use following command.
 
 You should see following 4 command in the terminal
 
-r - reload the app
-d - open developer menu
-i - run on iOS
-a - run on Android
+- r - reload the app
+- d - open developer menu
+- i - run on iOS
+- a - run on Android
 
 In terminal click on `i` to run application on iOS simulator
 
